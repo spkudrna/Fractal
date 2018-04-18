@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Pair_Share\r\n
+comment1.params=n
+comment1.target=void\ Printf(int)
+comment2.params=n
+comment2.target=void\ Printb(int)
+comment3.params=string
+comment3.target=void\ Printreverse(java.lang.String)
+comment4.params=n\ currDivisor
+comment4.target=boolean\ isPrime(int,\ int)
+numComments=5

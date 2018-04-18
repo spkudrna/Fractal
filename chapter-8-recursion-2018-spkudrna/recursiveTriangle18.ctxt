@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=page
+comment1.target=void\ paint(java.awt.Graphics)
+comment2.params=xPos\ yPos\ page
+comment2.target=void\ Triangle(int[],\ int[],\ java.awt.Graphics)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=double\ distance(int,\ int,\ int,\ int)
+numComments=4
